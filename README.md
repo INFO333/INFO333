@@ -1,18 +1,246 @@
-# 💫 About Me:
-🔭 I’m currently working on Designing and building production-grade, scalable backend systems using Java, Spring Boot, REST APIs, and cloud-native architectures.<br><br>👯 I’m looking to collaborate on High-impact projects involving distributed systems, microservices, backend platforms, DevOps pipelines, and large-scale application design.<br><br>🤝 I’m looking for help with Deep-dive discussions on system design trade-offs, scalability challenges, performance tuning, and real-world production failures.<br><br>🌱 I’m currently learning Advanced system design, microservices orchestration, Kubernetes, AWS architecture, security best practices, and reliability engineering.<br><br>💬 Ask me about Backend engineering, Java & Spring ecosystem, RESTful API design, authentication & authorization (JWT/OAuth), databases, and production debugging.<br><br>⚡ Fun fact I focus on writing clean, maintainable, and scalable code that survives real-world traffic—not just interview questions 🚀<br><br>“I believe strong systems are built through thoughtful design, not just frameworks.”
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+  Hey there, I'm INFO333!
+  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+</h1>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/info333) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:infotube45@gmail.com) 
+<br/>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=INFO333&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=INFO333&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=INFO333&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Java+Full-Stack+Developer+%F0%9F%9A%80;Building+Scalable+Enterprise+Solutions+%E2%9C%A8" alt="Typing SVG" />
+  </a>
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=INFO333&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <em>✨ Passionate about creating elegant, scalable, and production-ready systems ✨</em>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=INFO333&label=Profile%20Views&color=6C63FF&style=for-the-badge" />
+  &nbsp;
+  <a href="https://github.com/INFO333">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/info333/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:infotube45@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+<br/>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350"/>
+
+```yaml
+name: INFO333
+location: 🌍 Earth
+current_focus: Enterprise Java Solutions
+
+passion:
+  - Clean Architecture
+  - Scalable Systems  
+  - Problem Solving
+
+motto: "Code with purpose, build with passion"
+```
+
+<br/>
+
+- 🔭 **Currently crafting:** Production-grade systems with **Java & Spring Boot**
+- 🌱 **Learning:** **Kubernetes**, **AWS**, & **Advanced System Design**  
+- 💬 **Let's talk about:** Java, Microservices, System Design
+- 🎯 **Goal:** Building software that makes a difference
+- ⚡ **Fun fact:** I debug with coffee ☕
+
+<br clear="right"/>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+<br/>
+
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" /> Tech Arsenal
+
+<br/>
+
+<div align="center">
+
+| 💻 **Backend** | 🎨 **Frontend** | ☁️ **Cloud & DevOps** |
+|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle&perline=3" /> | <img src="https://skillicons.dev/icons?i=react,ts,html,css,bootstrap&perline=3" /> | <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,githubactions&perline=3" /> |
+
+<br/>
+
+| 🗄️ **Databases** | 🔧 **Tools** |
+|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb&perline=4" /> | <img src="https://skillicons.dev/icons?i=git,postman,idea,linux,vscode&perline=5" /> |
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+<br/>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-f6c7e3e2a9e7.png" width="30" /> Featured Projects
+
+<br/>
+
+<div align="center">
+
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=INFO333&repo=enterprise-finance&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF" />
+</a>
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=INFO333&repo=ecommerce-platform&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF" />
+</a>
+
+</div>
+
+<br/>
+
+| 🚀 Project | 🛠️ Stack | 📝 Description |
+|:---|:---|:---|
+| **🏦 Enterprise Finance** | `Java` `Spring Boot` `AWS` `Kafka` | High-volume financial microservices with secure APIs |
+| **🛒 E-Commerce Platform** | `Java` `React` `Redis` `Docker` | Scalable checkout system for high-traffic users |
+| **🏥 MedSystem Pro** | `Spring` `PostgreSQL` `Docker` | Healthcare appointment management system |
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+<br/>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="30" /> Architecture Philosophy
+
+<br/>
+
+<div align="center">
+
+```mermaid
+%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#6C63FF', 'primaryTextColor': '#fff', 'primaryBorderColor': '#6C63FF', 'lineColor': '#6C63FF', 'secondaryColor': '#1a1a2e', 'tertiaryColor': '#16213e'}}}%%
+flowchart LR
+    A[🌐 Client] --> B[🚪 API Gateway]
+    B --> C[🔐 Auth Service]
+    B --> D[👤 User Service]
+    B --> E[📦 Order Service]
+    E --> F[(🗄️ Database)]
+    E --> G[(⚡ Redis Cache)]
+    E -.->|📨 Events| H[🔔 Notifications]
+    
+    style A fill:#6C63FF,stroke:#6C63FF
+    style B fill:#1a1a2e,stroke:#6C63FF
+    style C fill:#1a1a2e,stroke:#6C63FF
+    style D fill:#1a1a2e,stroke:#6C63FF
+    style E fill:#1a1a2e,stroke:#6C63FF
+```
+
+</div>
+
+<br/>
+
+<div align="center">
+  
+| 🎯 Principle | 📖 Description |
+|:---:|:---|
+| **🔗 Loose Coupling** | Services communicate through well-defined APIs |
+| **🛡️ Service Isolation** | Each service owns its data and logic |
+| **📈 Scalability** | Horizontal scaling based on demand |
+| **🔄 Fault Tolerance** | Graceful degradation & circuit breakers |
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+<br/>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2571-48d8-8b12-8a5f6a5e3a22.png" width="30" /> GitHub Stats
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=INFO333&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=ffffff" height="180" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=INFO333&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=ffffff" height="180" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=INFO333&theme=tokyonight&hide_border=true&background=0d1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=INFO333&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6C63FF&line=6C63FF&point=ffffff" width="100%"/>
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+<br/>
+
+## <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="30" /> Let's Connect!
+
+<br/>
+
+<div align="center">
+  
+  <a href="mailto:infotube45@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/info333/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/INFO333">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35"/>
+  </a>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer"/>
+</div>
+
+<div align="center">
+  <b>⭐ If you like my work, consider giving a star! ⭐</b>
+  <br/><br/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200">
+</div>
