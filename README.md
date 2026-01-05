@@ -1,87 +1,73 @@
-<h1 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
-  Hey there, I'm INFO333!
-  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20There!%20I'm%20INFO333&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%E2%98%95+Java+Full-Stack+Developer;%F0%9F%9A%80+Building+Scalable+Enterprise+Solutions" alt="Typing SVG" />
+</p>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
 </div>
-
-<br/>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Java+Full-Stack+Developer+%F0%9F%9A%80;Building+Scalable+Enterprise+Solutions+%E2%9C%A8" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-</p>
-
-<p align="center">
-  <em>✨ Passionate about creating elegant, scalable, and production-ready systems ✨</em>
-</p>
-
-<br/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=INFO333&label=Profile%20Views&color=6C63FF&style=for-the-badge" />
-  &nbsp;
-  <a href="https://github.com/INFO333">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/info333/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:infotube45@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/github/followers/INFO333?style=for-the-badge&color=6C63FF&labelColor=0d1117" />
 </p>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> &nbsp;About Me
 
-<br/>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400"/>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
+```java
+@Component
+public class INFO333 implements Developer {
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350"/>
-
-```yaml
-name: INFO333
-location: 🌍 Earth
-current_focus: Enterprise Java Solutions
-
-passion:
-  - Clean Architecture
-  - Scalable Systems  
-  - Problem Solving
-
-motto: "Code with purpose, build with passion"
+    @Value("Java Full-Stack Developer")
+    private String role;
+    
+    private final List<String> languages = List.of(
+        "Java", "TypeScript", "JavaScript", "SQL"
+    );
+    
+    private final List<String> backend = List.of(
+        "Spring Boot", "Spring Security", 
+        "Hibernate", "Microservices"
+    );
+    
+    private final List<String> frontend = List.of(
+        "React", "Angular", "Redux"
+    );
+    
+    private final List<String> databases = List.of(
+        "PostgreSQL", "MongoDB", "Redis"
+    );
+    
+    @Override
+    public String getMotto() {
+        return "Code with purpose, build with passion ☕";
+    }
+}
 ```
-
-<br/>
-
-- 🔭 **Currently crafting:** Production-grade systems with **Java & Spring Boot**
-- 🌱 **Learning:** **Kubernetes**, **AWS**, & **Advanced System Design**  
-- 💬 **Let's talk about:** Java, Microservices, System Design
-- 🎯 **Goal:** Building software that makes a difference
-- ⚡ **Fun fact:** I debug with coffee ☕
 
 <br clear="right"/>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> &nbsp;Tech Stack
 
-<br/>
-
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" /> Tech Arsenal
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" />
+</div>
 
 <br/>
 
@@ -89,158 +75,149 @@ motto: "Code with purpose, build with passion"
 
 | 💻 **Backend** | 🎨 **Frontend** | ☁️ **Cloud & DevOps** |
 |:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle&perline=3" /> | <img src="https://skillicons.dev/icons?i=react,ts,html,css,bootstrap&perline=3" /> | <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,githubactions&perline=3" /> |
-
-<br/>
+| <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle&perline=5" /> | <img src="https://skillicons.dev/icons?i=react,angular,ts,html,css&perline=5" /> | <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,githubactions&perline=5" /> |
 
 | 🗄️ **Databases** | 🔧 **Tools** |
 |:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb&perline=4" /> | <img src="https://skillicons.dev/icons?i=git,postman,idea,linux,vscode&perline=5" /> |
+| <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka&perline=5" /> | <img src="https://skillicons.dev/icons?i=git,postman,idea,linux,vscode&perline=5" /> |
 
 </div>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-<br/>
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-f6c7e3e2a9e7.png" width="30" /> Featured Projects
-
-<br/>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;Featured Projects
 
 <div align="center">
-
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=INFO333&repo=enterprise-finance&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF" />
-</a>
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=INFO333&repo=ecommerce-platform&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF" />
-</a>
-
+  <img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="180">
 </div>
 
 <br/>
 
-| 🚀 Project | 🛠️ Stack | 📝 Description |
+| Project | Tech Stack | Description |
 |:---|:---|:---|
-| **🏦 Enterprise Finance** | `Java` `Spring Boot` `AWS` `Kafka` | High-volume financial microservices with secure APIs |
-| **🛒 E-Commerce Platform** | `Java` `React` `Redis` `Docker` | Scalable checkout system for high-traffic users |
-| **🏥 MedSystem Pro** | `Spring` `PostgreSQL` `Docker` | Healthcare appointment management system |
+| 🏦 **Enterprise Banking** | `Java` `Spring Boot` `Angular` `AWS` `Kafka` | Scalable microservices handling 1M+ transactions |
+| 🛒 **E-Commerce Platform** | `Java` `React` `Redux` `Redis` `Docker` | High-performance checkout system |
+| 🏥 **Healthcare System** | `Spring Cloud` `PostgreSQL` `Kubernetes` | HIPAA-compliant patient management |
+| 📊 **Analytics Dashboard** | `Java` `Angular` `MongoDB` `Elasticsearch` | Real-time BI with sub-second queries |
+| 🔐 **Auth Gateway** | `Spring Security` `OAuth2` `JWT` `Redis` | Centralized auth for 50K+ sessions |
+| 📱 **Mobile Banking API** | `Java` `Spring Boot` `React Native` | RESTful APIs with 99.9% uptime |
 
-<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-<br/>
-
-## <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="30" /> Architecture Philosophy
-
-<br/>
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> &nbsp;Architecture
 
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbade9-5129-4b0c-b14e-85e8568c7096.gif" width="500">
+</div>
+
+<br/>
 
 ```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#6C63FF', 'primaryTextColor': '#fff', 'primaryBorderColor': '#6C63FF', 'lineColor': '#6C63FF', 'secondaryColor': '#1a1a2e', 'tertiaryColor': '#16213e'}}}%%
-flowchart LR
-    A[🌐 Client] --> B[🚪 API Gateway]
-    B --> C[🔐 Auth Service]
-    B --> D[👤 User Service]
-    B --> E[📦 Order Service]
-    E --> F[(🗄️ Database)]
-    E --> G[(⚡ Redis Cache)]
-    E -.->|📨 Events| H[🔔 Notifications]
+%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#6C63FF', 'primaryTextColor': '#fff', 'lineColor': '#00d4ff'}}}%%
+flowchart TB
+    subgraph CLIENT["🖥️ Client Layer"]
+        A[🌐 React App]
+        B[📱 Angular Dashboard]
+    end
     
-    style A fill:#6C63FF,stroke:#6C63FF
-    style B fill:#1a1a2e,stroke:#6C63FF
-    style C fill:#1a1a2e,stroke:#6C63FF
-    style D fill:#1a1a2e,stroke:#6C63FF
-    style E fill:#1a1a2e,stroke:#6C63FF
+    subgraph GATEWAY["🚪 Gateway"]
+        C[⚖️ Load Balancer]
+        D[🔐 API Gateway]
+    end
+    
+    subgraph SERVICES["⚙️ Microservices"]
+        E[👤 User Service]
+        F[📦 Order Service]
+        G[💳 Payment Service]
+    end
+    
+    subgraph DATA["💾 Data Layer"]
+        H[(PostgreSQL)]
+        I[(Redis)]
+        J[Kafka]
+    end
+    
+    CLIENT --> GATEWAY --> SERVICES --> DATA
 ```
 
-</div>
-
 <br/>
 
 <div align="center">
-  
-| 🎯 Principle | 📖 Description |
+
+| Principle | Description |
 |:---:|:---|
-| **🔗 Loose Coupling** | Services communicate through well-defined APIs |
-| **🛡️ Service Isolation** | Each service owns its data and logic |
-| **📈 Scalability** | Horizontal scaling based on demand |
-| **🔄 Fault Tolerance** | Graceful degradation & circuit breakers |
+| 🔗 **Loose Coupling** | Services communicate via APIs |
+| 🛡️ **Service Isolation** | Each service owns its data |
+| 📈 **Scalability** | Horizontal scaling on demand |
+| 🔄 **Fault Tolerance** | Circuit breakers & graceful degradation |
 
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ez4/giphy.gif" width="30"> &nbsp;GitHub Stats
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="400">
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=INFO333&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=6C63FF&text_color=ffffff" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=INFO333&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&langs_count=8" height="170" />
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=INFO333&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=6C63FF&currStreakLabel=00d4ff" />
+</p>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2571-48d8-8b12-8a5f6a5e3a22.png" width="30" /> GitHub Stats
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=INFO333&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=6C63FF&point=ffffff&area=true&area_color=6C63FF" width="98%"/>
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=INFO333&theme=algolia&no-frame=true&no-bg=true&column=7" width="100%"/>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=INFO333&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=ffffff" height="180" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=INFO333&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=ffffff" height="180" />
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=INFO333&theme=tokyonight&hide_border=true&background=0d1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=INFO333&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6C63FF&line=6C63FF&point=ffffff" width="100%"/>
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-<br/>
-
-## <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="30" /> Let's Connect!
-
-<br/>
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> &nbsp;Connect
 
 <div align="center">
-  
   <a href="mailto:infotube45@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/info333/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
   </a>
   &nbsp;
   <a href="https://github.com/INFO333">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40"/>
   </a>
-
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="350">
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer"/>
+  <img src="https://user-images.githubusercontent.com/74038190/216649436-a1e21e36-37e0-4bfa-90db-27a7cb2f2b24.gif" width="280">
 </div>
 
 <div align="center">
-  <b>⭐ If you like my work, consider giving a star! ⭐</b>
-  <br/><br/>
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200">
+  
+**💬 *"First, solve the problem. Then, write the code."***
+
+**🚀 Open for collaboration &nbsp;|&nbsp; ☕ Let's build something amazing!**
+
 </div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
